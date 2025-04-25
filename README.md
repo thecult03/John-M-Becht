@@ -1,4 +1,4 @@
-<h1>Hello, I am John! I am passionate about technology, cybersecurity, and creating innovative solutions. -I also love my Homelab. Welcome to my GitHub profile! <br/><a href="https://github.com/thecult03">Security Operations Consultant</a>, <a href="https://www.linkedin.com/in/john-m-becht/">Cybersecurity Professional</a>, 
+<h1>Hello, I am John! I am passionate about technology, cybersecurity, and creating innovative solutions. Welcome to my GitHub profile! <br/><a href="https://github.com/thecult03">Security Operations Consultant</a>, <a href="https://www.linkedin.com/in/john-m-becht/">Cybersecurity Professional</a>, 
   
 <h2>👨‍💻 Cybersecurity Certificiates:</h2>
 

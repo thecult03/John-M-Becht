@@ -1,10 +1,13 @@
-# John-M-Becht
-<h1>Hello, I am John! <br/><a href="https://github.com/thecult03">Security Operations Consultant</a>, <a href="https://www.linkedin.com/in/john-m-becht/">Cybersecurity Professional</a>, 
+<h1>Hello, I am John! I am passionate about technology, cybersecurity, and creating innovative solutions.  I also love my Homelab. Welcome to my GitHub profile! <br/><a href="https://github.com/thecult03">Security Operations Consultant</a>, <a href="https://www.linkedin.com/in/john-m-becht/">Cybersecurity Professional</a>, 
   
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Certificiates:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Google Cybersecurity Professional March 2025</b>
+- <b>Google AI Essentials April 2025</b>
+  - [Over 200 hours of training]((https://coursera.org/share/5d59ea5eddd55360c9cb6288f1dd0739)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+
+
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>

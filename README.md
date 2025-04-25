@@ -1,10 +1,29 @@
-<h1>Hello, I am John! I am passionate about technology, cybersecurity, and creating innovative solutions.  I also love my Homelab. Welcome to my GitHub profile! <br/><a href="https://github.com/thecult03">Security Operations Consultant</a>, <a href="https://www.linkedin.com/in/john-m-becht/">Cybersecurity Professional</a>, 
+<h1>Hello, I am John! I am passionate about technology, cybersecurity, and creating innovative solutions. -I also love my Homelab. Welcome to my GitHub profile! <br/><a href="https://github.com/thecult03">Security Operations Consultant</a>, <a href="https://www.linkedin.com/in/john-m-becht/">Cybersecurity Professional</a>, 
   
 <h2>👨‍💻 Cybersecurity Certificiates:</h2>
 
 - <b>Google Cybersecurity Professional March 2025</b>
+  - [Over 200 hours of training](https://coursera.org/share/5d59ea5eddd55360c9cb6288f1dd0739)
+  - Foundations of Cybersecurity, Play It Safe; Manage Security Risks
+  - Connect and Protect: Networks and Network Security
+  - Tools of the Trade: Linux and SQL
+  - Assets, Threats, and Vulnerabilities
+  - Sound the Alarm: Detection and Response
+  - Automate Cybersecurity Tasks with Python
+
 - <b>Google AI Essentials April 2025</b>
-  - [Over 200 hours of training]((https://coursera.org/share/5d59ea5eddd55360c9cb6288f1dd0739)
+  - [Over 15 hours of training]
+  - MODULE 1 Introduction to AI
+  - MODULE 2 Maximize Productivity With AI Tools
+  - MODULE 3 Discover the Art of Prompting
+  - MODULE 4 Use AI Responsibly
+  - MODULE 5 Stay Ahead of the AI Curve
+ 
+<h3>👨‍💻 🌟 What Drives Me </h3>
+<b> I love creating solutions that are both impactful and user-centric. My journey reflects my dedication to technology and the continuous pursuit of excellence.</b>
+
+  
+<h4>👨‍💻 Exciting Projects - Homelab - Virtual Machines:</h4>
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
 
 
